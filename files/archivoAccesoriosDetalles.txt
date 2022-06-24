@@ -1,0 +1,2 @@
+1|5|Sombrero|Blanco/Morado
+2|6|Cartera|Rosado
